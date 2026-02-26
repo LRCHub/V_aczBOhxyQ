@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イマジナリーガール",
+  "base_artist": "miru",
+  "createdAt": "2026-02-26T09:43:19.189470Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イマジナリーガール",
+      "artist": "miru",
+      "has_synced": false,
+      "path": "select/pl_01_イマジナリーガール_miru.txt"
+    }
+  ]
+}
